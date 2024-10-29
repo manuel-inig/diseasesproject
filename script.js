@@ -45,6 +45,7 @@ let diseasesArray = [
 
 
 function search(){
-    
+    let disseaseSearchTxt = document.getElementById('disseaseSearchTxt').value
+    console.log(disseaseSearchTxt)
 }
 
