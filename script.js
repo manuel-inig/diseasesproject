@@ -45,6 +45,6 @@ let diseasesArray = [
 
 
 function search(){
-    
+    console.log(document.getElementById('textfield').value);
 }
 
